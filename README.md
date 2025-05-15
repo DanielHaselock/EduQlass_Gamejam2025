@@ -1,5 +1,5 @@
 <h2>Game title: Les duels de Lupin </h2>
-Made in 2 days with 3 programmers and 1 artist For the EduQlass 2025 Gamejam at UDEM
+Made in 2 days with 3 programmers and 1 artist For the EduQlass 2025 Gamejam at UDEM<br>
 This game requires at least one controller (preferably 2 controllers as playing on the keyboard is tricky)<br>
 Simply launch the game and press any input on keyboard/Controller<br>
 Once two different input devices are pressed, the main menu should appear<br>
