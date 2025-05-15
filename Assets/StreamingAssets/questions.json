@@ -1,0 +1,2577 @@
+{
+"questions": [
+	{
+		"question_id" : 1,
+		"question" : "Quelle est la conjugaison du verbe 'être' au présent de l'indicatif, à la première personne du singulier ?",
+		"answer" : "Je suis",
+		"other_question" : "Tu es",
+		"other_question2" : "Il est",
+		"other_question3" : "Nous sommes",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 2,
+		"question" : "Quel est le genre du mot 'table' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Invariable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 3,
+		"question" : "Comment dit-on 'hello' en français (formel) ?",
+		"answer" : "Bonjour",
+		"other_question" : "Salut",
+		"other_question2" : "Au revoir",
+		"other_question3" : "Merci",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 4,
+		"question" : "Quel est le pluriel de 'cheval' ?",
+		"answer" : "chevaux",
+		"other_question" : "chevals",
+		"other_question2" : "chevau",
+		"other_question3" : "chevauxs",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 5,
+		"question" : "Complétez la phrase : 'Elle ___ belle.' (être)",
+		"answer" : "est",
+		"other_question" : "es",
+		"other_question2" : "suis",
+		"other_question3" : "sont",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 6,
+		"question" : "Quel est l'antonyme de 'grand' ?",
+		"answer" : "petit",
+		"other_question" : "haut",
+		"other_question2" : "large",
+		"other_question3" : "fort",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 7,
+		"question" : "Choisissez le bon article : J'ai ___ chien. ",
+		"answer" : "un",
+		"other_question" : "une",
+		"other_question2" : "des",
+		"other_question3" : "le",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 8,
+		"question" : "Quelle est la conjugaison du verbe 'avoir' au présent de l'indicatif, à la deuxième personne du singulier ?",
+		"answer" : "Tu as",
+		"other_question" : "J'ai",
+		"other_question2" : "Il a",
+		"other_question3" : "Nous avons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 9,
+		"question" : "Que signifie 'Il pleut des cordes' ?",
+		"answer" : "Il pleut très fort",
+		"other_question" : "Il fait beau",
+		"other_question2" : "Il neige",
+		"other_question3" : "Il y a du brouillard",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 10,
+		"question" : "Quel est le féminin de l'adjectif 'heureux' ?",
+		"answer" : "heureuse",
+		"other_question" : "heureux",
+		"other_question2" : "heureusex",
+		"other_question3" : "heureus",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 11,
+		"question" : "Comment forme-t-on la négation simple en français ?",
+		"answer" : "ne ... pas",
+		"other_question" : "non ... pas",
+		"other_question2" : "pas ... ne",
+		"other_question3" : "ne ... jamais",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 12,
+		"question" : "Quel est le participe passé du verbe 'manger' ?",
+		"answer" : "mangé",
+		"other_question" : "manger",
+		"other_question2" : "mange",
+		"other_question3" : "mangeais",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 13,
+		"question" : "Complétez : 'Nous ___ au cinéma hier soir.' (aller - passé composé)",
+		"answer" : "sommes allés",
+		"other_question" : "allons",
+		"other_question2" : "allions",
+		"other_question3" : "irons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 14,
+		"question" : "Quel pronom remplace 'le livre' dans 'Je lis le livre' ?",
+		"answer" : "le",
+		"other_question" : "la",
+		"other_question2" : "les",
+		"other_question3" : "lui",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 15,
+		"question" : "Quel est le synonyme de 'voiture' ?",
+		"answer" : "automobile",
+		"other_question" : "vélo",
+		"other_question2" : "avion",
+		"other_question3" : "train",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 16,
+		"question" : "Quel est le futur simple du verbe 'faire' à la première personne du pluriel ?",
+		"answer" : "Nous ferons",
+		"other_question" : "Nous faisons",
+		"other_question2" : "Nous faisions",
+		"other_question3" : "Nous ferions",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 17,
+		"question" : "Quel est le genre du mot 'livre' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Pluriel",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 18,
+		"question" : "Quelle préposition utilise-t-on pour indiquer la ville où l'on va ?",
+		"answer" : "à",
+		"other_question" : "en",
+		"other_question2" : "de",
+		"other_question3" : "sur",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 19,
+		"question" : "Comment dit-on 'thank you' en français?",
+		"answer" : "Merci",
+		"other_question" : "S'il vous plaît",
+		"other_question2" : "Excusez-moi",
+		"other_question3" : "Bonjour",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 20,
+		"question" : "Quel est le pluriel de 'œil' ?",
+		"answer" : "yeux",
+		"other_question" : "œils",
+		"other_question2" : "œux",
+		"other_question3" : "œilz",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 21,
+		"question" : "Accordez l'adjectif : 'une  ___ (joli) fleur'.",
+		"answer" : "jolie",
+		"other_question" : "joli",
+		"other_question2" : "jolis",
+		"other_question3" : "jolies",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 22,
+		"question" : "Quelle est la conjugaison du verbe 'aller' au présent de l'indicatif, à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle va",
+		"other_question" : "Je vais",
+		"other_question2" : "Tu vas",
+		"other_question3" : "Ils vont",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 23,
+		"question" : "Quel mot désigne un animal qui miaule ?",
+		"answer" : "chat",
+		"other_question" : "chien",
+		"other_question2" : "oiseau",
+		"other_question3" : "poisson",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 24,
+		"question" : "Quel pronom utilise-t-on pour remplacer 'Marie' dans 'Je parle à Marie' ?",
+		"answer" : "elle",
+		"other_question" : "lui",
+		"other_question2" : "la",
+		"other_question3" : "les",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 25,
+		"question" : "Quel est l'imparfait du verbe 'parler' à la première personne du singulier ?",
+		"answer" : "Je parlais",
+		"other_question" : "Je parle",
+		"other_question2" : "J'ai parlé",
+		"other_question3" : "Je parlerai",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 26,
+		"question" : "Quel est le contraire de 'chaud' ?",
+		"answer" : "froid",
+		"other_question" : "tiède",
+		"other_question2" : "brûlant",
+		"other_question3" : "gelé",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 27,
+		"question" : "Choisissez l'article correct : 'J'aime ___ chocolat.'",
+		"answer" : "le",
+		"other_question" : "la",
+		"other_question2" : "les",
+		"other_question3" : "un",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 28,
+		"question" : "Quel est le participe passé du verbe 'prendre' ?",
+		"answer" : "pris",
+		"other_question" : "prendu",
+		"other_question2" : "prené",
+		"other_question3" : "prendi",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 29,
+		"question" : "Complétez : 'Demain, tu ___ tes devoirs.' (finir - futur simple)",
+		"answer" : "finiras",
+		"other_question" : "finis",
+		"other_question2" : "finissais",
+		"other_question3" : "as fini",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 30,
+		"question" : "Quel est le genre du mot 'maison' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Aucun",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 31,
+		"question" : "Quelle est la fonction du mot 'lentement' dans la phrase 'Il marche lentement' ?",
+		"answer" : "Adverbe",
+		"other_question" : "Adjectif",
+		"other_question2" : "Nom",
+		"other_question3" : "Verbe",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 32,
+		"question" : "Comment dit-on 'goodbye' en français ?",
+		"answer" : "Au revoir",
+		"other_question" : "Bonjour",
+		"other_question2" : "Bonsoir",
+		"other_question3" : "Salut",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 33,
+		"question" : "Quel est le pluriel de 'journal' ?",
+		"answer" : "journaux",
+		"other_question" : "journals",
+		"other_question2" : "journeau",
+		"other_question3" : "journeux",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 34,
+		"question" : "Quelle est la conjugaison du verbe 'venir' au présent de l'indicatif, à la deuxième personne du pluriel ?",
+		"answer" : "Vous venez",
+		"other_question" : "Nous venons",
+		"other_question2" : "Ils viennent",
+		"other_question3" : "Tu viens",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 35,
+		"question" : "Que signifie l'expression 'avoir un chat dans la gorge' ?",
+		"answer" : "Être enroué",
+		"other_question" : "Avoir faim",
+		"other_question2" : "Être fatigué",
+		"other_question3" : "Avoir peur",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 36,
+		"question" : "Quel est le féminin de l'adjectif 'blanc' ?",
+		"answer" : "blanche",
+		"other_question" : "blanc",
+		"other_question2" : "blancs",
+		"other_question3" : "blanchesse",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 37,
+		"question" : "Quel pronom relatif utilise-t-on pour un complément d'objet direct ?",
+		"answer" : "que",
+		"other_question" : "qui",
+		"other_question2" : "dont",
+		"other_question3" : "où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 38,
+		"question" : "Quel est le conditionnel présent du verbe 'pouvoir' à la première personne du singulier ?",
+		"answer" : "Je pourrais",
+		"other_question" : "Je peux",
+		"other_question2" : "Je pouvais",
+		"other_question3" : "J'ai pu",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 39,
+		"question" : "Complétez : 'Si j'avais de l'argent, j' ___ une voiture.' (acheter - conditionnel présent)",
+		"answer" : "achèterais",
+		"other_question" : "achète",
+		"other_question2" : "achetais",
+		"other_question3" : "ai acheté",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 40,
+		"question" : "Quel est le synonyme de 'content' ?",
+		"answer" : "heureux",
+		"other_question" : "triste",
+		"other_question2" : "fâché",
+		"other_question3" : "surpris",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 41,
+		"question" : "Quel est le genre du mot 'soleil' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 42,
+		"question" : "Quelle préposition utilise-t-on pour indiquer le pays où l'on va (si féminin ou commençant par une voyelle) ?",
+		"answer" : "en",
+		"other_question" : "à",
+		"other_question2" : "au",
+		"other_question3" : "aux",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 43,
+		"question" : "Comment dit-on 'please' en français (formel) ?",
+		"answer" : "S'il vous plaît",
+		"other_question" : "Merci",
+		"other_question2" : "S'il te plaît",
+		"other_question3" : "Pardon",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 44,
+		"question" : "Quel est le pluriel de 'travail' ?",
+		"answer" : "travaux",
+		"other_question" : "travails",
+		"other_question2" : "travailes",
+		"other_question3" : "travaus",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 45,
+		"question" : "Accordez l'adjectif : 'des pommes ___ (vert)'.",
+		"answer" : "vertes",
+		"other_question" : "vert",
+		"other_question2" : "verts",
+		"other_question3" : "verte",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 46,
+		"question" : "Quelle est la conjugaison du verbe 'dire' au présent de l'indicatif, à la troisième personne du pluriel ?",
+		"answer" : "Ils\/Elles disent",
+		"other_question" : "Il dit",
+		"other_question2" : "Nous disons",
+		"other_question3" : "Vous dites",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 47,
+		"question" : "Quel mot désigne le repas du soir?",
+		"answer" : "souper",
+		"other_question" : "dîner",
+		"other_question2" : "petit-déjeuner",
+		"other_question3" : "déjeuner",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 48,
+		"question" : "Quel pronom remplace 'les enfants' dans 'Il les regarde' ?",
+		"answer" : "les",
+		"other_question" : "leur",
+		"other_question2" : "eux",
+		"other_question3" : "lui",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 49,
+		"question" : "Quel est l'imparfait du verbe 'être' à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle était",
+		"other_question" : "Il est",
+		"other_question2" : "Il sera",
+		"other_question3" : "Il a été",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 50,
+		"question" : "Quel est le contraire de 'rapide' ?",
+		"answer" : "lent",
+		"other_question" : "vite",
+		"other_question2" : "pressé",
+		"other_question3" : "vif",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 51,
+		"question" : "Choisissez l'article partitif correct : 'Tu veux ___ eau ?'",
+		"answer" : "de l'",
+		"other_question" : "du",
+		"other_question2" : "de la",
+		"other_question3" : "des",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 52,
+		"question" : "Quel est le participe passé du verbe 'boire' ?",
+		"answer" : "bu",
+		"other_question" : "boit",
+		"other_question2" : "bois",
+		"other_question3" : "buvé",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 53,
+		"question" : "Complétez : 'Ils ___ souvent au parc.' (jouer - présent)",
+		"answer" : "jouent",
+		"other_question" : "joue",
+		"other_question2" : "jouons",
+		"other_question3" : "jouez",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 54,
+		"question" : "Quel est le genre du mot 'fleur' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Incertain",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 55,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander la raison ?",
+		"answer" : "Pourquoi",
+		"other_question" : "Comment",
+		"other_question2" : "Où",
+		"other_question3" : "Quand",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 56,
+		"question" : "Comment dit-on 'water' en français ?",
+		"answer" : "eau",
+		"other_question" : "lait",
+		"other_question2" : "vin",
+		"other_question3" : "jus",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 57,
+		"question" : "Quel est le pluriel de 'genou' ?",
+		"answer" : "genoux",
+		"other_question" : "genous",
+		"other_question2" : "genouxs",
+		"other_question3" : "genoi",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 58,
+		"question" : "Quelle est la conjugaison du verbe 'vouloir' au présent de l'indicatif, à la première personne du singulier ?",
+		"answer" : "Je veux",
+		"other_question" : "Tu veux",
+		"other_question2" : "Il veut",
+		"other_question3" : "Nous voulons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 59,
+		"question" : "Que signifie l'expression 'coûter les yeux de la tête' ?",
+		"answer" : "Coûter très cher",
+		"other_question" : "Ne rien coûter",
+		"other_question2" : "Être bon marché",
+		"other_question3" : "Avoir mal aux yeux",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 60,
+		"question" : "Quel est le féminin de l'adjectif 'gentil' ?",
+		"answer" : "gentille",
+		"other_question" : "gentil",
+		"other_question2" : "gentils",
+		"other_question3" : "gentilles",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 61,
+		"question" : "Quel pronom relatif utilise-t-on pour un sujet ?",
+		"answer" : "qui",
+		"other_question" : "que",
+		"other_question2" : "dont",
+		"other_question3" : "où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 62,
+		"question" : "Quel est le subjonctif présent du verbe 'avoir' à la deuxième personne du singulier ?",
+		"answer" : "que tu aies",
+		"other_question" : "que tu as",
+		"other_question2" : "que tu avais",
+		"other_question3" : "que tu auras",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 63,
+		"question" : "Complétez : 'Il faut que nous ___ (faire) attention.'",
+		"answer" : "fassions",
+		"other_question" : "faisons",
+		"other_question2" : "ferons",
+		"other_question3" : "faisions",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 64,
+		"question" : "Quel est le synonyme de 'maison' ?",
+		"answer" : "logement",
+		"other_question" : "bâtiment",
+		"other_question2" : "voiture",
+		"other_question3" : "jardin",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 65,
+		"question" : "Quel est le genre du mot 'bonheur' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Double",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 66,
+		"question" : "Quelle préposition utilise-t-on après le verbe 'penser' suivi d'une personne ?",
+		"answer" : "à",
+		"other_question" : "de",
+		"other_question2" : "en",
+		"other_question3" : "pour",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 67,
+		"question" : "Comment dit-on 'yes' en français ?",
+		"answer" : "Oui",
+		"other_question" : "Non",
+		"other_question2" : "Peut-être",
+		"other_question3" : "D'accord",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 68,
+		"question" : "Quel est le pluriel de 'monsieur' ?",
+		"answer" : "messieurs",
+		"other_question" : "monsieurs",
+		"other_question2" : "mes sieurs",
+		"other_question3" : "monsieurx",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 69,
+		"question" : "Accordez l'adjectif : 'des livres ___ (intéressant)'.",
+		"answer" : "intéressants",
+		"other_question" : "intéressant",
+		"other_question2" : "intéressante",
+		"other_question3" : "intéressantes",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 70,
+		"question" : "Quelle est la conjugaison du verbe 'savoir' au présent de l'indicatif, à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle sait",
+		"other_question" : "Je sais",
+		"other_question2" : "Tu sais",
+		"other_question3" : "Nous savons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 71,
+		"question" : "Quel mot désigne le contraire de 'jour' ?",
+		"answer" : "nuit",
+		"other_question" : "soir",
+		"other_question2" : "matin",
+		"other_question3" : "après-midi",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 72,
+		"question" : "Quel pronom possessif correspond à 'mon livre' (le ...) ?",
+		"answer" : "le mien",
+		"other_question" : "le tien",
+		"other_question2" : "le sien",
+		"other_question3" : "le nôtre",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 73,
+		"question" : "Quel est l'imparfait du verbe 'avoir' à la deuxième personne du pluriel ?",
+		"answer" : "Vous aviez",
+		"other_question" : "Vous avez",
+		"other_question2" : "Vous aurez",
+		"other_question3" : "Vous auriez",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 74,
+		"question" : "Quel est le contraire de 'facile' ?",
+		"answer" : "difficile",
+		"other_question" : "simple",
+		"other_question2" : "aisé",
+		"other_question3" : "compliqué",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 75,
+		"question" : "Choisissez la bonne forme : '___ beau aujourd'hui.' (Il fait \/ C'est)",
+		"answer" : "Il fait",
+		"other_question" : "C'est",
+		"other_question2" : "Ça fait",
+		"other_question3" : "Il est",
+		"subject" : "Phrase"
+	},
+	{
+		"question_id" : 76,
+		"question" : "Quel est le participe passé du verbe 'ouvrir' ?",
+		"answer" : "ouvert",
+		"other_question" : "ouvri",
+		"other_question2" : "ouvré",
+		"other_question3" : "ouvru",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 77,
+		"question" : "Complétez : 'Quand j'étais petit, je ___ beaucoup.' (lire - imparfait)",
+		"answer" : "lisais",
+		"other_question" : "lis",
+		"other_question2" : "lirai",
+		"other_question3" : "ai lu",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 78,
+		"question" : "Quel est le genre du mot 'amour' (au singulier) ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 79,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander le lieu ?",
+		"answer" : "Où",
+		"other_question" : "Quand",
+		"other_question2" : "Comment",
+		"other_question3" : "Pourquoi",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 80,
+		"question" : "Comment dit-on 'cat' en français ?",
+		"answer" : "chat",
+		"other_question" : "chien",
+		"other_question2" : "souris",
+		"other_question3" : "oiseau",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 81,
+		"question" : "Quel est le pluriel de 'château' ?",
+		"answer" : "châteaux",
+		"other_question" : "châteaus",
+		"other_question2" : "châteax",
+		"other_question3" : "châteauls",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 82,
+		"question" : "Quelle est la conjugaison du verbe 'mettre' au présent de l'indicatif, à la première personne du pluriel ?",
+		"answer" : "Nous mettons",
+		"other_question" : "Je mets",
+		"other_question2" : "Tu mets",
+		"other_question3" : "Ils mettent",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 83,
+		"question" : "Que signifie l'expression 'chercher midi à quatorze heures' ?",
+		"answer" : "Compliquer les choses inutilement",
+		"other_question" : "Être ponctuel",
+		"other_question2" : "Chercher quelque chose",
+		"other_question3" : "Avoir faim",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 84,
+		"question" : "Quel est le féminin de l'adjectif 'nouveau' (avant une voyelle) ?",
+		"answer" : "nouvelle",
+		"other_question" : "nouveau",
+		"other_question2" : "nouvel",
+		"other_question3" : "nouvelles",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 85,
+		"question" : "Quel pronom relatif remplace 'de' + nom de lieu ?",
+		"answer" : "dont",
+		"other_question" : "où",
+		"other_question2" : "que",
+		"other_question3" : "qui",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 86,
+		"question" : "Quel est le futur antérieur du verbe 'arriver' à la première personne du singulier ?",
+		"answer" : "Je serai arrivé(e)",
+		"other_question" : "J'arriverai",
+		"other_question2" : "J'arrivais",
+		"other_question3" : "Je suis arrivé(e)",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 87,
+		"question" : "Complétez : 'Il faut que tu ___ (être) sage.'",
+		"answer" : "sois",
+		"other_question" : "es",
+		"other_question2" : "étais",
+		"other_question3" : "seras",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 88,
+		"question" : "Quel est le synonyme de 'parler' ?",
+		"answer" : "discuter",
+		"other_question" : "écouter",
+		"other_question2" : "écrire",
+		"other_question3" : "lire",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 89,
+		"question" : "Quel est le genre du mot 'eau' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Double genre",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 90,
+		"question" : "Quelle préposition utilise-t-on avec 'jouer' + instrument de musique ?",
+		"answer" : "de",
+		"other_question" : "à",
+		"other_question2" : "en",
+		"other_question3" : "avec",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 91,
+		"question" : "Comment dit-on 'no' en français ?",
+		"answer" : "Non",
+		"other_question" : "Oui",
+		"other_question2" : "Si",
+		"other_question3" : "Pas",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 92,
+		"question" : "Quel est le pluriel de 'animal' ?",
+		"answer" : "animaux",
+		"other_question" : "animals",
+		"other_question2" : "animels",
+		"other_question3" : "animauxs",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 93,
+		"question" : "Accordez l'adjectif : 'une histoire ___ (long)'.",
+		"answer" : "longue",
+		"other_question" : "long",
+		"other_question2" : "longs",
+		"other_question3" : "longues",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 94,
+		"question" : "Quelle est la conjugaison du verbe 'lire' au présent de l'indicatif, à la deuxième personne du singulier ?",
+		"answer" : "Tu lis",
+		"other_question" : "Je lis",
+		"other_question2" : "Il lit",
+		"other_question3" : "Nous lisons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 95,
+		"question" : "Quel mot désigne un vêtement pour les jambes ?",
+		"answer" : "pantalon",
+		"other_question" : "chemise",
+		"other_question2" : "robe",
+		"other_question3" : "chapeau",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 96,
+		"question" : "Quel pronom démonstratif masculin singulier utilise-t-on pour quelque chose de proche ?",
+		"answer" : "celui-ci",
+		"other_question" : "celui-là",
+		"other_question2" : "celle-ci",
+		"other_question3" : "ceux-ci",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 97,
+		"question" : "Quel est le plus-que-parfait du verbe 'manger' à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle avait mangé",
+		"other_question" : "Il mangeait",
+		"other_question2" : "Il a mangé",
+		"other_question3" : "Il mangera",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 98,
+		"question" : "Quel est le contraire de 'beau' ?",
+		"answer" : "laid",
+		"other_question" : "joli",
+		"other_question2" : "moche",
+		"other_question3" : "magnifique",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 99,
+		"question" : "Choisissez la bonne forme : 'J'ai besoin ___ aide.' (d'\/de l')",
+		"answer" : "d'",
+		"other_question" : "de l'",
+		"other_question2" : "de la",
+		"other_question3" : "du",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 100,
+		"question" : "Quel est le participe passé du verbe 'écrire' ?",
+		"answer" : "écrit",
+		"other_question" : "écris",
+		"other_question2" : "écrivu",
+		"other_question3" : "écrivé",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 101,
+		"question" : "Complétez : 'Vous ___ (devoir) finir ce travail.'",
+		"answer" : "devez",
+		"other_question" : "devois",
+		"other_question2" : "devons",
+		"other_question3" : "doivent",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 102,
+		"question" : "Quel est le genre du mot 'travail' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Pluriel seulement",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 103,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander la manière ?",
+		"answer" : "Comment",
+		"other_question" : "Pourquoi",
+		"other_question2" : "Où",
+		"other_question3" : "Qui",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 104,
+		"question" : "Comment dit-on 'dog' en français ?",
+		"answer" : "chien",
+		"other_question" : "chat",
+		"other_question2" : "oiseau",
+		"other_question3" : "poisson",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 105,
+		"question" : "Quel est le pluriel de 'bijou' ?",
+		"answer" : "bijoux",
+		"other_question" : "bijous",
+		"other_question2" : "bijouxs",
+		"other_question3" : "bijouces",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 106,
+		"question" : "Quelle est la conjugaison du verbe 'dormir' au présent de l'indicatif, à la troisième personne du pluriel ?",
+		"answer" : "Ils\/Elles dorment",
+		"other_question" : "Il dort",
+		"other_question2" : "Nous dormons",
+		"other_question3" : "Vous dormez",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 107,
+		"question" : "Que signifie l'expression 'être fleur bleue' ?",
+		"answer" : "Être sentimental, romantique",
+		"other_question" : "Aimer le bleu",
+		"other_question2" : "Être triste",
+		"other_question3" : "Être malade",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 108,
+		"question" : "Quel est le féminin de l'adjectif 'vieux' (avant une voyelle) ?",
+		"answer" : "vieille",
+		"other_question" : "vieux",
+		"other_question2" : "vieil",
+		"other_question3" : "vieilles",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 109,
+		"question" : "Quel pronom relatif remplace 'de' + nom (possession ou origine) ?",
+		"answer" : "dont",
+		"other_question" : "qui",
+		"other_question2" : "que",
+		"other_question3" : "où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 110,
+		"question" : "Quel est le conditionnel passé du verbe 'aller' à la deuxième personne du singulier ?",
+		"answer" : "Tu serais allé(e)",
+		"other_question" : "Tu irais",
+		"other_question2" : "Tu es allé(e)",
+		"other_question3" : "Tu allais",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 111,
+		"question" : "Complétez : 'Bien que je ___ (être) fatigué, je continue.'",
+		"answer" : "sois",
+		"other_question" : "suis",
+		"other_question2" : "étais",
+		"other_question3" : "serai",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 112,
+		"question" : "Quel est le synonyme de 'rapide' ?",
+		"answer" : "vite",
+		"other_question" : "lent",
+		"other_question2" : "calme",
+		"other_question3" : "doux",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 113,
+		"question" : "Quel est le genre du mot 'temps' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Invariable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 114,
+		"question" : "Quelle préposition utilise-t-on avec 'jouer' + sport ou jeu ?",
+		"answer" : "à",
+		"other_question" : "de",
+		"other_question2" : "en",
+		"other_question3" : "sur",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 115,
+		"question" : "Comment dit-on 'bread' en français ?",
+		"answer" : "pain",
+		"other_question" : "fromage",
+		"other_question2" : "vin",
+		"other_question3" : "lait",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 116,
+		"question" : "Quel est le pluriel de 'hibou' ?",
+		"answer" : "hiboux",
+		"other_question" : "hibous",
+		"other_question2" : "hibouxs",
+		"other_question3" : "hibouxes",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 117,
+		"question" : "Accordez l'adjectif : 'des maisons ___ (grand)'.",
+		"answer" : "grandes",
+		"other_question" : "grand",
+		"other_question2" : "grands",
+		"other_question3" : "grande",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 118,
+		"question" : "Quelle est la conjugaison du verbe 'croire' au présent de l'indicatif, à la première personne du singulier ?",
+		"answer" : "Je crois",
+		"other_question" : "Tu crois",
+		"other_question2" : "Il croit",
+		"other_question3" : "Nous croyons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 119,
+		"question" : "Quel mot désigne le premier repas de la journée ?",
+		"answer" : "petit-déjeuner",
+		"other_question" : "déjeuner",
+		"other_question2" : "dîner",
+		"other_question3" : "goûter",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 120,
+		"question" : "Quel pronom tonique correspond à 'je' ?",
+		"answer" : "moi",
+		"other_question" : "toi",
+		"other_question2" : "lui",
+		"other_question3" : "elle",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 121,
+		"question" : "Quel est l'imparfait du verbe 'faire' à la deuxième personne du singulier ?",
+		"answer" : "Tu faisais",
+		"other_question" : "Tu fais",
+		"other_question2" : "Tu feras",
+		"other_question3" : "Tu as fait",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 122,
+		"question" : "Quel est le contraire de 'bon' ?",
+		"answer" : "mauvais",
+		"other_question" : "méchant",
+		"other_question2" : "gentil",
+		"other_question3" : "agréable",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 123,
+		"question" : "Choisissez le bon pronom relatif : 'Le livre ___ je lis est intéressant.'",
+		"answer" : "que",
+		"other_question" : "qui",
+		"other_question2" : "dont",
+		"other_question3" : "où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 124,
+		"question" : "Quel est le participe passé du verbe 'vivre' ?",
+		"answer" : "vécu",
+		"other_question" : "vivé",
+		"other_question2" : "vis",
+		"other_question3" : "vivu",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 125,
+		"question" : "Complétez : 'Elles ___ (partir) demain matin.'",
+		"answer" : "partiront",
+		"other_question" : "partent",
+		"other_question2" : "partaient",
+		"other_question3" : "sont parties",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 126,
+		"question" : "Quel est le genre du mot 'problème' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Ambigu",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 127,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander une quantité ?",
+		"answer" : "Combien",
+		"other_question" : "Comment",
+		"other_question2" : "Pourquoi",
+		"other_question3" : "Quand",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 128,
+		"question" : "Comment dit-on 'book' en français ?",
+		"answer" : "livre",
+		"other_question" : "cahier",
+		"other_question2" : "stylo",
+		"other_question3" : "table",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 129,
+		"question" : "Quel est le pluriel de 'caillou' ?",
+		"answer" : "cailloux",
+		"other_question" : "caillous",
+		"other_question2" : "caillouxs",
+		"other_question3" : "caillouxes",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 130,
+		"question" : "Quelle est la conjugaison du verbe 'recevoir' au présent de l'indicatif, à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle reçoit",
+		"other_question" : "Je reçois",
+		"other_question2" : "Tu reçois",
+		"other_question3" : "Nous recevons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 131,
+		"question" : "Que signifie l'expression 'avoir le cafard' ?",
+		"answer" : "Être déprimé, triste",
+		"other_question" : "Avoir un insecte",
+		"other_question2" : "Aimer le café",
+		"other_question3" : "Être agité",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 132,
+		"question" : "Quel est le féminin de l'adjectif 'long' ?",
+		"answer" : "longue",
+		"other_question" : "longe",
+		"other_question2" : "longs",
+		"other_question3" : "longues",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 133,
+		"question" : "Quel type de mot est 'mais' ?",
+		"answer" : "Conjonction de coordination",
+		"other_question" : "Préposition",
+		"other_question2" : "Adverbe",
+		"other_question3" : "Pronom",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 134,
+		"question" : "Quel est le subjonctif présent du verbe 'faire' à la première personne du pluriel ?",
+		"answer" : "que nous fassions",
+		"other_question" : "que nous faisons",
+		"other_question2" : "que nous ferons",
+		"other_question3" : "que nous fîmes",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 135,
+		"question" : "Complétez : 'Je doute qu'il ___ (venir).'",
+		"answer" : "vienne",
+		"other_question" : "vient",
+		"other_question2" : "venait",
+		"other_question3" : "viendra",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 136,
+		"question" : "Quel est le synonyme de 'commencer' ?",
+		"answer" : "débuter",
+		"other_question" : "finir",
+		"other_question2" : "arrêter",
+		"other_question3" : "continuer",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 137,
+		"question" : "Quel est le genre du mot 'voiture' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Commun",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 138,
+		"question" : "Quelle préposition utilise-t-on pour indiquer la matière ?",
+		"answer" : "en",
+		"other_question" : "de",
+		"other_question2" : "à",
+		"other_question3" : "avec",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 139,
+		"question" : "Comment dit-on 'apple' en français ?",
+		"answer" : "pomme",
+		"other_question" : "poire",
+		"other_question2" : "banane",
+		"other_question3" : "orange",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 140,
+		"question" : "Quel est le pluriel de 'madame' ?",
+		"answer" : "mesdames",
+		"other_question" : "madames",
+		"other_question2" : "mes dames",
+		"other_question3" : "madamxs",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 141,
+		"question" : "Accordez le participe passé : 'Les lettres que j'ai ___ (écrire)'.",
+		"answer" : "écrites",
+		"other_question" : "écrit",
+		"other_question2" : "écrits",
+		"other_question3" : "écrite",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 142,
+		"question" : "Quelle est la conjugaison du verbe 'pouvoir' au présent de l'indicatif, à la deuxième personne du pluriel ?",
+		"answer" : "Vous pouvez",
+		"other_question" : "Nous pouvons",
+		"other_question2" : "Ils peuvent",
+		"other_question3" : "Tu peux",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 143,
+		"question" : "Quel mot désigne un liquide rouge produit par la vigne ?",
+		"answer" : "vin",
+		"other_question" : "eau",
+		"other_question2" : "lait",
+		"other_question3" : "jus",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 144,
+		"question" : "Quel pronom tonique correspond à 'tu' ?",
+		"answer" : "toi",
+		"other_question" : "moi",
+		"other_question2" : "lui",
+		"other_question3" : "elle",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 145,
+		"question" : "Quel est l'imparfait du verbe 'aller' à la première personne du pluriel ?",
+		"answer" : "Nous allions",
+		"other_question" : "Nous allons",
+		"other_question2" : "Nous irons",
+		"other_question3" : "Nous sommes allés",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 146,
+		"question" : "Quel est le contraire de 'jour' ?",
+		"answer" : "nuit",
+		"other_question" : "soirée",
+		"other_question2" : "matinée",
+		"other_question3" : "ténèbres",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 147,
+		"question" : "Choisissez le bon pronom relatif : 'L'homme ___ parle est mon père.'",
+		"answer" : "qui",
+		"other_question" : "que",
+		"other_question2" : "dont",
+		"other_question3" : "où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 148,
+		"question" : "Quel est le participe passé du verbe 'mettre' ?",
+		"answer" : "mis",
+		"other_question" : "mettu",
+		"other_question2" : "metté",
+		"other_question3" : "mise",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 149,
+		"question" : "Complétez : 'Il ___ (pleuvoir) hier.'",
+		"answer" : "a plu",
+		"other_question" : "pleut",
+		"other_question2" : "pleuvait",
+		"other_question3" : "pleuvra",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 150,
+		"question" : "Quel est le genre du mot 'planète' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Indéfini",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 151,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander l'identité d'une personne (sujet) ?",
+		"answer" : "Qui",
+		"other_question" : "Que",
+		"other_question2" : "Quoi",
+		"other_question3" : "Lequel",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 152,
+		"question" : "Comment dit-on 'house' en français ?",
+		"answer" : "maison",
+		"other_question" : "appartement",
+		"other_question2" : "immeuble",
+		"other_question3" : "château",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 153,
+		"question" : "Quel est le pluriel de 'joujou' ?",
+		"answer" : "joujoux",
+		"other_question" : "joujous",
+		"other_question2" : "joujouxs",
+		"other_question3" : "joujouxes",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 154,
+		"question" : "Quelle est la conjugaison du verbe 'envoyer' au présent de l'indicatif, à la première personne du singulier ?",
+		"answer" : "J'envoie",
+		"other_question" : "J'envoye",
+		"other_question2" : "J'envois",
+		"other_question3" : "Nous envoyons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 155,
+		"question" : "Que signifie l'expression 'poser un lapin' ?",
+		"answer" : "Ne pas venir à un rendez-vous",
+		"other_question" : "Offrir un lapin",
+		"other_question2" : "Attraper un lapin",
+		"other_question3" : "Aimer les lapins",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 156,
+		"question" : "Quel est le féminin de l'adjectif 'secret' ?",
+		"answer" : "secrète",
+		"other_question" : "secret",
+		"other_question2" : "secrets",
+		"other_question3" : "secrètes",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 157,
+		"question" : "Quel type de mot est 'sous' ?",
+		"answer" : "Préposition",
+		"other_question" : "Adverbe",
+		"other_question2" : "Conjonction",
+		"other_question3" : "Nom",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 158,
+		"question" : "Quel est le futur simple du verbe 'être' à la deuxième personne du singulier ?",
+		"answer" : "Tu seras",
+		"other_question" : "Tu es",
+		"other_question2" : "Tu étais",
+		"other_question3" : "Tu sois",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 159,
+		"question" : "Complétez : 'Pourvu qu'il ___ (faire) beau demain !'",
+		"answer" : "fasse",
+		"other_question" : "fait",
+		"other_question2" : "fera",
+		"other_question3" : "faisait",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 160,
+		"question" : "Quel est le synonyme de 'difficile' ?",
+		"answer" : "compliqué",
+		"other_question" : "facile",
+		"other_question2" : "simple",
+		"other_question3" : "aisé",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 161,
+		"question" : "Quel est le genre du mot 'espace' (univers) ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 162,
+		"question" : "Quelle préposition suit le verbe 'commencer' ?",
+		"answer" : "à \/ de",
+		"other_question" : "par",
+		"other_question2" : "en",
+		"other_question3" : "sur",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 163,
+		"question" : "Comment dit-on 'sun' en français ?",
+		"answer" : "soleil",
+		"other_question" : "lune",
+		"other_question2" : "étoile",
+		"other_question3" : "ciel",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 164,
+		"question" : "Quel est le pluriel de 'pneu' ?",
+		"answer" : "pneus",
+		"other_question" : "pneux",
+		"other_question2" : "pneu",
+		"other_question3" : "pneuses",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 165,
+		"question" : "Accordez le participe passé : 'La tarte que tu as ___ (faire)'.",
+		"answer" : "faite",
+		"other_question" : "fait",
+		"other_question2" : "faits",
+		"other_question3" : "faites",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 166,
+		"question" : "Quelle est la conjugaison du verbe 'connaître' au présent de l'indicatif, à la troisième personne du pluriel ?",
+		"answer" : "Ils\/Elles connaissent",
+		"other_question" : "Il connaît",
+		"other_question2" : "Nous connaissons",
+		"other_question3" : "Vous connaissez",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 167,
+		"question" : "Quel mot désigne le parent masculin ?",
+		"answer" : "père",
+		"other_question" : "mère",
+		"other_question2" : "frère",
+		"other_question3" : "sœur",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 168,
+		"question" : "Quel pronom tonique correspond à 'il' ?",
+		"answer" : "lui",
+		"other_question" : "il",
+		"other_question2" : "eux",
+		"other_question3" : "le",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 169,
+		"question" : "Quel est le plus-que-parfait du verbe 'venir' à la première personne du pluriel ?",
+		"answer" : "Nous étions venus \/ venues",
+		"other_question" : "Nous venions",
+		"other_question2" : "Nous sommes venus \/ venues",
+		"other_question3" : "Nous viendrons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 170,
+		"question" : "Quel est le contraire de 'riche' ?",
+		"answer" : "pauvre",
+		"other_question" : "fortuné",
+		"other_question2" : "aisé",
+		"other_question3" : "mendiant",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 171,
+		"question" : "Choisissez le bon pronom : 'Je ___ parle.' (lui\/le)",
+		"answer" : "lui",
+		"other_question" : "le",
+		"other_question2" : "la",
+		"other_question3" : "les",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 172,
+		"question" : "Quel est le participe passé du verbe 'connaître' ?",
+		"answer" : "connu",
+		"other_question" : "connais",
+		"other_question2" : "connaissu",
+		"other_question3" : "connué",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 173,
+		"question" : "Complétez : 'Nous ___ (espérer) te voir bientôt.'",
+		"answer" : "espérons",
+		"other_question" : "espère",
+		"other_question2" : "espériez",
+		"other_question3" : "espérerons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 174,
+		"question" : "Quel est le genre du mot 'exemple' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Double",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 175,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander un choix ?",
+		"answer" : "Lequel \/ Laquelle \/ Lesquels \/ Lesquelles",
+		"other_question" : "Qui",
+		"other_question2" : "Que",
+		"other_question3" : "Comment",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 176,
+		"question" : "Comment dit-on 'moon' en français ?",
+		"answer" : "lune",
+		"other_question" : "soleil",
+		"other_question2" : "étoile",
+		"other_question3" : "planète",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 177,
+		"question" : "Quel est le pluriel de 'landau' ?",
+		"answer" : "landaus",
+		"other_question" : "landaux",
+		"other_question2" : "landeaux",
+		"other_question3" : "landauces",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 178,
+		"question" : "Quelle est la conjugaison du verbe 'rire' au présent de l'indicatif, à la deuxième personne du pluriel ?",
+		"answer" : "Vous riez",
+		"other_question" : "Nous rions",
+		"other_question2" : "Ils rient",
+		"other_question3" : "Tu ris",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 179,
+		"question" : "Que signifie l'expression 'avoir la main verte' ?",
+		"answer" : "Être doué pour le jardinage",
+		"other_question" : "Avoir la main peinte en vert",
+		"other_question2" : "Être malade",
+		"other_question3" : "Être écologiste",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 180,
+		"question" : "Quel est le féminin de l'adjectif 'sportif' ?",
+		"answer" : "sportive",
+		"other_question" : "sportif",
+		"other_question2" : "sportifs",
+		"other_question3" : "sportives",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 181,
+		"question" : "Quel type de mot est 'donc' ?",
+		"answer" : "Conjonction de coordination",
+		"other_question" : "Adverbe",
+		"other_question2" : "Préposition",
+		"other_question3" : "Interjection",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 182,
+		"question" : "Quel est le conditionnel présent du verbe 'avoir' à la troisième personne du pluriel ?",
+		"answer" : "Ils\/Elles auraient",
+		"other_question" : "Ils ont",
+		"other_question2" : "Ils avaient",
+		"other_question3" : "Ils auront",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 183,
+		"question" : "Complétez : 'J'aimerais que vous ___ (venir) avec nous.'",
+		"answer" : "veniez",
+		"other_question" : "venez",
+		"other_question2" : "venier",
+		"other_question3" : "viendrez",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 184,
+		"question" : "Quel est le synonyme de 'regarder' ?",
+		"answer" : "voir",
+		"other_question" : "observer",
+		"other_question2" : "écouter",
+		"other_question3" : "toucher",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 185,
+		"question" : "Quel est le genre du mot 'journal' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Collectif",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 186,
+		"question" : "Quelle préposition utilise-t-on après 'content' ?",
+		"answer" : "de",
+		"other_question" : "à",
+		"other_question2" : "pour",
+		"other_question3" : "avec",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 187,
+		"question" : "Comment dit-on 'cheese' en français ?",
+		"answer" : "fromage",
+		"other_question" : "pain",
+		"other_question2" : "vin",
+		"other_question3" : "lait",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 188,
+		"question" : "Quel est le pluriel de 'festival' ?",
+		"answer" : "festivals",
+		"other_question" : "festivaux",
+		"other_question2" : "festivels",
+		"other_question3" : "festivalx",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 189,
+		"question" : "Accordez le participe passé : 'Les fleurs qu'il a ___ (cueillir)'.",
+		"answer" : "cueillies",
+		"other_question" : "cueilli",
+		"other_question2" : "cueillis",
+		"other_question3" : "cueillie",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 190,
+		"question" : "Quelle est la conjugaison du verbe 'écrire' au présent de l'indicatif, à la première personne du pluriel ?",
+		"answer" : "Nous écrivons",
+		"other_question" : "J'écris",
+		"other_question2" : "Tu écris",
+		"other_question3" : "Ils écrivent",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 191,
+		"question" : "Quel mot désigne le parent féminin ?",
+		"answer" : "mère",
+		"other_question" : "père",
+		"other_question2" : "oncle",
+		"other_question3" : "tante",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 192,
+		"question" : "Quel pronom tonique correspond à 'elle' ?",
+		"answer" : "elle",
+		"other_question" : "lui",
+		"other_question2" : "elles",
+		"other_question3" : "la",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 193,
+		"question" : "Quel est l'imparfait du verbe 'vouloir' à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle voulait",
+		"other_question" : "Il veut",
+		"other_question2" : "Il voudra",
+		"other_question3" : "Il a voulu",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 194,
+		"question" : "Quel est le contraire de 'ouvrir' ?",
+		"answer" : "fermer",
+		"other_question" : "entrer",
+		"other_question2" : "sortir",
+		"other_question3" : "clore",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 195,
+		"question" : "Choisissez la bonne préposition : 'Il est responsable ___ ce projet.' (de\/pour)",
+		"answer" : "de",
+		"other_question" : "pour",
+		"other_question2" : "à",
+		"other_question3" : "en",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 196,
+		"question" : "Quel est le participe passé du verbe 'rire' ?",
+		"answer" : "ri",
+		"other_question" : "rire",
+		"other_question2" : "ris",
+		"other_question3" : "rié",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 197,
+		"question" : "Complétez : 'Tu ___ (prendre) le train de 8h.'",
+		"answer" : "prends",
+		"other_question" : "prendras",
+		"other_question2" : "prenais",
+		"other_question3" : "as pris",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 198,
+		"question" : "Quel est le genre du mot 'verre' (à boire) ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 199,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander l'heure ?",
+		"answer" : "Quelle heure",
+		"other_question" : "Quand",
+		"other_question2" : "Combien",
+		"other_question3" : "Comment",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 200,
+		"question" : "Comment dit-on 'star' en français ?",
+		"answer" : "étoile",
+		"other_question" : "lune",
+		"other_question2" : "soleil",
+		"other_question3" : "planète",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 201,
+		"question" : "Quel est le pluriel de 'chou' ?",
+		"answer" : "choux",
+		"other_question" : "chous",
+		"other_question2" : "chouxs",
+		"other_question3" : "chouces",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 202,
+		"question" : "Quelle est la conjugaison du verbe 'boire' au présent de l'indicatif, à la première personne du pluriel ?",
+		"answer" : "Nous buvons",
+		"other_question" : "Je bois",
+		"other_question2" : "Tu bois",
+		"other_question3" : "Ils boivent",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 203,
+		"question" : "Que signifie l'expression 'donner sa langue au chat' ?",
+		"answer" : "Abandonner (ne pas trouver la réponse)",
+		"other_question" : "Parler à un chat",
+		"other_question2" : "Nourrir un chat",
+		"other_question3" : "Aimer les chats",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 204,
+		"question" : "Quel est le féminin de l'adjectif 'muet' ?",
+		"answer" : "muette",
+		"other_question" : "muet",
+		"other_question2" : "muets",
+		"other_question3" : "muettes",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 205,
+		"question" : "Quel type de mot est 'vite' ?",
+		"answer" : "Adverbe",
+		"other_question" : "Adjectif",
+		"other_question2" : "Nom",
+		"other_question3" : "Verbe",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 206,
+		"question" : "Quel est le subjonctif présent du verbe 'être' à la troisième personne du pluriel ?",
+		"answer" : "qu'ils\/elles soient",
+		"other_question" : "qu'ils sont",
+		"other_question2" : "qu'ils étaient",
+		"other_question3" : "qu'ils seront",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 207,
+		"question" : "Complétez : 'Il est important que nous ___ (savoir) la vérité.'",
+		"answer" : "sachions",
+		"other_question" : "savons",
+		"other_question2" : "saurons",
+		"other_question3" : "savions",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 208,
+		"question" : "Quel est le synonyme de 'fatigué' ?",
+		"answer" : "épuisé",
+		"other_question" : "reposé",
+		"other_question2" : "énergique",
+		"other_question3" : "calme",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 209,
+		"question" : "Quel est le genre du mot 'courage' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Invariable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 210,
+		"question" : "Quelle préposition utilise-t-on avec 'parler' + langue ?",
+		"answer" : " (aucune) ou 'en'",
+		"other_question" : "à",
+		"other_question2" : "de",
+		"other_question3" : "avec",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 211,
+		"question" : "Comment dit-on 'sky' en français ?",
+		"answer" : "ciel",
+		"other_question" : "nuage",
+		"other_question2" : "soleil",
+		"other_question3" : "terre",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 212,
+		"question" : "Quel est le pluriel de 'mademoiselle' ?",
+		"answer" : "mesdemoiselles",
+		"other_question" : "mademoiselles",
+		"other_question2" : "mes demoiselles",
+		"other_question3" : "mademoisellxs",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 213,
+		"question" : "Accordez le participe passé : 'Elle s'est ___ (laver) les mains.'",
+		"answer" : "lavé",
+		"other_question" : "lavée",
+		"other_question2" : "lavés",
+		"other_question3" : "lavées",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 214,
+		"question" : "Quelle est la conjugaison du verbe 'partir' au présent de l'indicatif, à la deuxième personne du singulier ?",
+		"answer" : "Tu pars",
+		"other_question" : "Je pars",
+		"other_question2" : "Il part",
+		"other_question3" : "Nous partons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 215,
+		"question" : "Quel mot désigne un fruit jaune et allongé ?",
+		"answer" : "banane",
+		"other_question" : "pomme",
+		"other_question2" : "orange",
+		"other_question3" : "fraise",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 216,
+		"question" : "Quel pronom tonique correspond à 'nous' ?",
+		"answer" : "nous",
+		"other_question" : "vous",
+		"other_question2" : "eux",
+		"other_question3" : "elles",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 217,
+		"question" : "Quel est le futur simple du verbe 'avoir' à la première personne du singulier ?",
+		"answer" : "J'aurai",
+		"other_question" : "J'ai",
+		"other_question2" : "J'avais",
+		"other_question3" : "J'aurais",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 218,
+		"question" : "Quel est le contraire de 'mort' ?",
+		"answer" : "vivant",
+		"other_question" : "décédé",
+		"other_question2" : "endormi",
+		"other_question3" : "inerte",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 219,
+		"question" : "Choisissez la bonne forme : 'Il est ___ France.' (en\/au)",
+		"answer" : "en",
+		"other_question" : "au",
+		"other_question2" : "à",
+		"other_question3" : "aux",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 220,
+		"question" : "Quel est le participe passé du verbe 'mourir' ?",
+		"answer" : "mort",
+		"other_question" : "mouru",
+		"other_question2" : "mouri",
+		"other_question3" : "morti",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 221,
+		"question" : "Complétez : 'Si tu ___ (étudier), tu réussiras.'",
+		"answer" : "étudies",
+		"other_question" : "étudiais",
+		"other_question2" : "étudieras",
+		"other_question3" : "as étudié",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 222,
+		"question" : "Quel est le genre du mot 'image' ?",
+		"answer" : "Féminin",
+		"other_question" : "Masculin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 223,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander l'identité d'une personne (complément) ?",
+		"answer" : "Qui",
+		"other_question" : "Que",
+		"other_question2" : "Quoi",
+		"other_question3" : "Lequel",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 224,
+		"question" : "Comment dit-on 'cloud' en français ?",
+		"answer" : "nuage",
+		"other_question" : "ciel",
+		"other_question2" : "pluie",
+		"other_question3" : "orage",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 225,
+		"question" : "Quel est le pluriel de 'détail' ?",
+		"answer" : "détails",
+		"other_question" : "détaux",
+		"other_question2" : "détauls",
+		"other_question3" : "détaileux",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 226,
+		"question" : "Quelle est la conjugaison du verbe 'vivre' au présent de l'indicatif, à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle vit",
+		"other_question" : "Je vis",
+		"other_question2" : "Tu vis",
+		"other_question3" : "Nous vivons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 227,
+		"question" : "Que signifie l'expression 'mettre son grain de sel' ?",
+		"answer" : "Intervenir dans une conversation sans y être invité",
+		"other_question" : "Saler un plat",
+		"other_question2" : "Aimer le sel",
+		"other_question3" : "Être cuisinier",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 228,
+		"question" : "Quel est le féminin de l'adjectif 'public' ?",
+		"answer" : "publique",
+		"other_question" : "public",
+		"other_question2" : "publics",
+		"other_question3" : "publiques",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 229,
+		"question" : "Quel type de mot est 'lentement' ?",
+		"answer" : "Adverbe",
+		"other_question" : "Adjectif",
+		"other_question2" : "Préposition",
+		"other_question3" : "Nom",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 230,
+		"question" : "Quel est le conditionnel présent du verbe 'faire' à la deuxième personne du pluriel ?",
+		"answer" : "Vous feriez",
+		"other_question" : "Vous faites",
+		"other_question2" : "Vous faisiez",
+		"other_question3" : "Vous ferez",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 231,
+		"question" : "Complétez : 'Il se peut qu'elle ___ (être) en retard.'",
+		"answer" : "soit",
+		"other_question" : "est",
+		"other_question2" : "était",
+		"other_question3" : "sera",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 232,
+		"question" : "Quel est le synonyme de 'aimer' ?",
+		"answer" : "adorer",
+		"other_question" : "détester",
+		"other_question2" : "haïr",
+		"other_question3" : "ignorer",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 233,
+		"question" : "Quel est le genre du mot 'âge' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Double",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 234,
+		"question" : "Quelle préposition utilise-t-on pour introduire un complément du nom ?",
+		"answer" : "de",
+		"other_question" : "à",
+		"other_question2" : "en",
+		"other_question3" : "pour",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 235,
+		"question" : "Comment dit-on 'rain' en français ?",
+		"answer" : "pluie",
+		"other_question" : "neige",
+		"other_question2" : "vent",
+		"other_question3" : "soleil",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 236,
+		"question" : "Quel est le pluriel de 'bocal' ?",
+		"answer" : "bocaux",
+		"other_question" : "bocals",
+		"other_question2" : "bocales",
+		"other_question3" : "bocaus",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 237,
+		"question" : "Accordez le participe passé : 'Les cadeaux qu'elles ont ___ (recevoir)'.",
+		"answer" : "reçus",
+		"other_question" : "reçu",
+		"other_question2" : "reçue",
+		"other_question3" : "reçues",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 238,
+		"question" : "Quelle est la conjugaison du verbe 'attendre' au présent de l'indicatif, à la première personne du singulier ?",
+		"answer" : "J'attends",
+		"other_question" : "Tu attends",
+		"other_question2" : "Il attend",
+		"other_question3" : "Nous attendons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 239,
+		"question" : "Quel mot désigne un moyen de transport sur rails ?",
+		"answer" : "train",
+		"other_question" : "voiture",
+		"other_question2" : "avion",
+		"other_question3" : "bus",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 240,
+		"question" : "Quel pronom tonique correspond à 'vous' ?",
+		"answer" : "vous",
+		"other_question" : "nous",
+		"other_question2" : "eux",
+		"other_question3" : "elles",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 241,
+		"question" : "Quel est l'imparfait du verbe 'lire' à la troisième personne du pluriel ?",
+		"answer" : "Ils\/Elles lisaient",
+		"other_question" : "Ils lisent",
+		"other_question2" : "Ils liront",
+		"other_question3" : "Ils ont lu",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 242,
+		"question" : "Quel est le contraire de 'plein' ?",
+		"answer" : "vide",
+		"other_question" : "rempli",
+		"other_question2" : "bondé",
+		"other_question3" : "entier",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 243,
+		"question" : "Choisissez le bon pronom : 'C'est le garçon ___ j'ai vu hier.' (que\/qui)",
+		"answer" : "que",
+		"other_question" : "qui",
+		"other_question2" : "dont",
+		"other_question3" : "où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 244,
+		"question" : "Quel est le participe passé du verbe 'lire' ?",
+		"answer" : "lu",
+		"other_question" : "lisé",
+		"other_question2" : "lit",
+		"other_question3" : "lué",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 245,
+		"question" : "Complétez : 'Quand il arrivera, nous ___ (manger).'",
+		"answer" : "mangerons",
+		"other_question" : "mangeons",
+		"other_question2" : "mangions",
+		"other_question3" : "avons mangé",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 246,
+		"question" : "Quel est le genre du mot 'vin' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 247,
+		"question" : "Quel mot interrogatif utilise-t-on pour demander le temps (météo) ?",
+		"answer" : "Quel temps",
+		"other_question" : "Quand",
+		"other_question2" : "Comment",
+		"other_question3" : "Pourquoi",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 248,
+		"question" : "Comment dit-on 'snow' en français ?",
+		"answer" : "neige",
+		"other_question" : "pluie",
+		"other_question2" : "glace",
+		"other_question3" : "froid",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 249,
+		"question" : "Quel est le pluriel de 'soupirail' ?",
+		"answer" : "soupiraux",
+		"other_question" : "soupirails",
+		"other_question2" : "soupireaux",
+		"other_question3" : "soupirals",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 250,
+		"question" : "Quelle est la conjugaison du verbe 'vendre' au présent de l'indicatif, à la deuxième personne du pluriel ?",
+		"answer" : "Vous vendez",
+		"other_question" : "Nous vendons",
+		"other_question2" : "Ils vendent",
+		"other_question3" : "Tu vends",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 251,
+		"question" : "Que signifie l'expression 'avoir le cœur sur la main' ?",
+		"answer" : "Être généreux",
+		"other_question" : "Avoir mal au cœur",
+		"other_question2" : "Aimer beaucoup",
+		"other_question3" : "Être émotif",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 252,
+		"question" : "Quel est le féminin de l'adjectif 'grec' ?",
+		"answer" : "grecque",
+		"other_question" : "grec",
+		"other_question2" : "grecs",
+		"other_question3" : "grecques",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 253,
+		"question" : "Quel type de mot est 'très' ?",
+		"answer" : "Adverbe",
+		"other_question" : "Adjectif",
+		"other_question2" : "Préposition",
+		"other_question3" : "Conjonction",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 254,
+		"question" : "Quel est le futur simple du verbe 'aller' à la troisième personne du pluriel ?",
+		"answer" : "Ils\/Elles iront",
+		"other_question" : "Ils vont",
+		"other_question2" : "Ils allaient",
+		"other_question3" : "Ils iraient",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 255,
+		"question" : "Complétez : 'Avant que tu ___ (partir), dis-moi au revoir.'",
+		"answer" : "partes",
+		"other_question" : "pars",
+		"other_question2" : "partais",
+		"other_question3" : "partiras",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 256,
+		"question" : "Quel est le synonyme de 'beau' ?",
+		"answer" : "joli",
+		"other_question" : "laid",
+		"other_question2" : "moche",
+		"other_question3" : "affreux",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 257,
+		"question" : "Quel est le genre du mot 'cahier' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Collectif",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 258,
+		"question" : "Quelle préposition utilise-t-on avec 'se souvenir' ?",
+		"answer" : "de",
+		"other_question" : "à",
+		"other_question2" : "en",
+		"other_question3" : "pour",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 259,
+		"question" : "Comment dit-on 'wind' en français ?",
+		"answer" : "vent",
+		"other_question" : "air",
+		"other_question2" : "brise",
+		"other_question3" : "tempête",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 260,
+		"question" : "Quel est le pluriel de 'corail' ?",
+		"answer" : "coraux",
+		"other_question" : "corails",
+		"other_question2" : "corailses",
+		"other_question3" : "coraulx",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 261,
+		"question" : "Accordez le participe passé : 'Elle s'est ___ (coucher) tard.'",
+		"answer" : "couchée",
+		"other_question" : "couché",
+		"other_question2" : "couchés",
+		"other_question3" : "couchées",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 262,
+		"question" : "Quelle est la conjugaison du verbe 'répondre' au présent de l'indicatif, à la troisième personne du singulier ?",
+		"answer" : "Il\/Elle répond",
+		"other_question" : "Je réponds",
+		"other_question2" : "Tu réponds",
+		"other_question3" : "Nous répondons",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 263,
+		"question" : "Quel mot désigne un professionnel qui soigne les malades ?",
+		"answer" : "médecin",
+		"other_question" : "professeur",
+		"other_question2" : "boulanger",
+		"other_question3" : "acteur",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 264,
+		"question" : "Quel pronom tonique correspond à 'ils' ?",
+		"answer" : "eux",
+		"other_question" : "ils",
+		"other_question2" : "lui",
+		"other_question3" : "elles",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 265,
+		"question" : "Quel est le plus-que-parfait du verbe 'faire' à la deuxième personne du singulier ?",
+		"answer" : "Tu avais fait",
+		"other_question" : "Tu faisais",
+		"other_question2" : "Tu as fait",
+		"other_question3" : "Tu feras",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 266,
+		"question" : "Quel est le contraire de 'aimer' ?",
+		"answer" : "détester",
+		"other_question" : "adorer",
+		"other_question2" : "préférer",
+		"other_question3" : "apprécier",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 267,
+		"question" : "Choisissez le bon pronom : 'Voici la maison ___ j'habite.'",
+		"answer" : "où",
+		"other_question" : "que",
+		"other_question2" : "qui",
+		"other_question3" : "dont",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 268,
+		"question" : "Quel est le participe passé du verbe 'devoir' ?",
+		"answer" : "dû",
+		"other_question" : "devu",
+		"other_question2" : "doit",
+		"other_question3" : "devé",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 269,
+		"question" : "Complétez : 'Pendant que tu ___ (dormir), je travaillerai.'",
+		"answer" : "dormiras",
+		"other_question" : "dors",
+		"other_question2" : "dormais",
+		"other_question3" : "as dormi",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 270,
+		"question" : "Quel est le genre du mot 'stylo' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Ambigu",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 271,
+		"question" : "Quel mot interrogatif utilise-t-on pour poser une question totale (oui\/non) ?",
+		"answer" : "Est-ce que",
+		"other_question" : "Pourquoi",
+		"other_question2" : "Comment",
+		"other_question3" : "Où",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 272,
+		"question" : "Comment dit-on 'ice' en français ?",
+		"answer" : "glace",
+		"other_question" : "neige",
+		"other_question2" : "eau",
+		"other_question3" : "froid",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 273,
+		"question" : "Quel est le pluriel de 'vitrail' ?",
+		"answer" : "vitraux",
+		"other_question" : "vitrails",
+		"other_question2" : "vitrailes",
+		"other_question3" : "vitraulus",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 274,
+		"question" : "Quelle est la conjugaison du verbe 'finir' au présent de l'indicatif, à la première personne du pluriel ?",
+		"answer" : "Nous finissons",
+		"other_question" : "Je finis",
+		"other_question2" : "Tu finis",
+		"other_question3" : "Ils finissent",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 275,
+		"question" : "Que signifie l'expression 'ne pas être dans son assiette' ?",
+		"answer" : "Ne pas se sentir bien, être mal à l'aise",
+		"other_question" : "Ne pas avoir d'assiette",
+		"other_question2" : "Avoir faim",
+		"other_question3" : "Être maladroit",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 276,
+		"question" : "Quel est le féminin de l'adjectif 'menteur' ?",
+		"answer" : "menteuse",
+		"other_question" : "menteur",
+		"other_question2" : "menteurs",
+		"other_question3" : "menteures",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 277,
+		"question" : "Quel type de mot est 'sur' ?",
+		"answer" : "Préposition",
+		"other_question" : "Adverbe",
+		"other_question2" : "Adjectif",
+		"other_question3" : "Conjonction",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 278,
+		"question" : "Quel est le conditionnel passé du verbe 'pouvoir' à la première personne du singulier ?",
+		"answer" : "J'aurais pu",
+		"other_question" : "Je pourrais",
+		"other_question2" : "J'ai pu",
+		"other_question3" : "Je pouvais",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 279,
+		"question" : "Complétez : 'Je voudrais que tu ___ (réussir).'",
+		"answer" : "réussisses",
+		"other_question" : "réussis",
+		"other_question2" : "réussissais",
+		"other_question3" : "réussiras",
+		"subject" : "Verbe"
+	},
+	{
+		"question_id" : 280,
+		"question" : "Quel est le synonyme de 'grand' ?",
+		"answer" : "vaste",
+		"other_question" : "petit",
+		"other_question2" : "étroit",
+		"other_question3" : "minuscule",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 281,
+		"question" : "Quel est le genre du mot 'pays' ?",
+		"answer" : "Masculin",
+		"other_question" : "Féminin",
+		"other_question2" : "Neutre",
+		"other_question3" : "Variable",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 282,
+		"question" : "Quelle préposition utilise-t-on avec 'intéressé' ?",
+		"answer" : "par \/ à",
+		"other_question" : "de",
+		"other_question2" : "en",
+		"other_question3" : "pour",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 283,
+		"question" : "Comment dit-on 'fire' en français ?",
+		"answer" : "feu",
+		"other_question" : "eau",
+		"other_question2" : "terre",
+		"other_question3" : "air",
+		"subject" : "Vocabulaire"
+	},
+	{
+		"question_id" : 284,
+		"question" : "Quel est le pluriel de 'émail' ?",
+		"answer" : "émaux",
+		"other_question" : "émails",
+		"other_question2" : "émailes",
+		"other_question3" : "émaulus",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 285,
+		"question" : "Accordez le participe passé : 'Les erreurs qu'il a ___ (commettre)'.",
+		"answer" : "commises",
+		"other_question" : "commis",
+		"other_question2" : "commise",
+		"other_question3" : "commit",
+		"subject" : "Grammaire"
+	},
+	{
+		"question_id" : 286,
+		"question" : "QUESTION BONUS!!!",
+		"answer" : "ICI",
+		"other_question" : "NON",
+		"other_question2" : "NON",
+		"other_question3" : "NON",
+		"subject" : "Grammaire"
+	}
+]}
